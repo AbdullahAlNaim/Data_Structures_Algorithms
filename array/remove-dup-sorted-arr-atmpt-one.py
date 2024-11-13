@@ -7,12 +7,7 @@ def removeDuplicates(nums):
     print(l)
     return l
     
-
 nums = [0,0,1,1,1,2,2,3,3,4]
-
 
 removeDuplicates(nums)
 
-# nums = [1,2,3]
-# nums.append(4)
-# print(nums[3])
