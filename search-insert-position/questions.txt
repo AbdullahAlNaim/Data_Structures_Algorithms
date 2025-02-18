@@ -1,0 +1,38 @@
+Ask him
+- How did he get the interview from a disadvantage point
+    - Projects?
+    - Networking? Via bootcamp
+    - Cold apply?(job boards) During good market
+
+How did he ace the interview
+- Leetcode?
+- How would he recommend leetcode/interview prep?
+
+- What was the bootcamp experience like?
+- Their journey to land that job from a bootcamp to shopify level company?
+- Interview skills and process tips?
+    - How did you study and prepare
+- Things to focus on in resume and interview points?
+- What's it like working there?
+
+Talk about my story and experience
+- Iv got SWE from automating and switching in company
+- Solving slow problems
+- Teach ppl and manager
+- Laid off?
+- Iv studied multiple teck stacks since layoff
+- Ror
+- Nest js
+- Django
+- Vue
+- NOW DSA
+
+Other questions
+- Are projects important?
+    - Bounty hunter? Yugioh?
+- How would you recommend for me based on my experience to focus on?
+- His thoughts on the market? (for jrs too) 
+- I have not done features
+- Is open source worth it?
+- What to look for in jr engineer for hire
+- Is cold applying worth or only network
