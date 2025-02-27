@@ -27,6 +27,9 @@ function noChange(x) {
     if (!(last in check)){
         nums.push(last);
     }
+    else {
+        noChange(x)
+    }
     
     console.log(nums)
     return nums
