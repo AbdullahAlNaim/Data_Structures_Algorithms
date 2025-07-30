@@ -1,0 +1,23 @@
+[
+  {
+    "partner": "Google",
+    "click_id": "abc123",
+    "timestamp": "2024-07-10T12:01:22Z",
+    "user_id": "u1",
+    "destination": "Boston"
+  },
+  {
+    "partner": "Facebook",
+    "click_id": "def456",
+    "timestamp": "2024-07-10T12:05:11Z",
+    "user_id": "u2",
+    "destination": "New York"
+  },
+  {
+    "partner": "Google",
+    "click_id": "ghi789",
+    "timestamp": "2024-07-10T12:09:45Z",
+    "user_id": "u3",
+    "destination": "Boston"
+  }
+]

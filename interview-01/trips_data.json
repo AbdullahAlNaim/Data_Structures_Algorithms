@@ -1,0 +1,20 @@
+[
+  {
+    "partner": "Google",
+    "origin": "Boston",
+    "destination": "New York",
+    "searched_at": "2024-07-27T10:45:00Z"
+  },
+  {
+    "partner": "Google",
+    "origin": "Boston",
+    "destination": "New York",
+    "searched_at": "2024-07-27T11:01:10Z"
+  },
+  {
+    "partner": "Facebook",
+    "origin": "Boston",
+    "destination": "New York",
+    "searched_at": "2024-07-28T14:15:00Z"
+  }
+]
