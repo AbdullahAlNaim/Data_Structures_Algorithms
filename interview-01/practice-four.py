@@ -32,7 +32,7 @@ def traffic(searches):
         results[partner][cleaned_date_searched][searched_trip] += 1
 
 
-    # print(results)
+    print(results)
     return results
         
 
