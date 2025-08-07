@@ -101,7 +101,7 @@ class SinglyLinkedList():
         left = None
         middle = self.head
         while middle != None:
-            right = self.head.next
+            right = middle.next
             middle.next = left
             left = middle
             middle = right
