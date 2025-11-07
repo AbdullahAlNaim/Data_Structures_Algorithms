@@ -1,10 +1,10 @@
 class Node:
     def __init__(self, value):
         self.value = value
-        self.left = None
         self.right = None
+        self.left = None
 
-    
+
 class BinarySearchTree:
     def __init__(self):
         self.root = None
@@ -29,7 +29,7 @@ class BinarySearchTree:
                 current_node = current_node.right
         return self
     
-    def contains(self, value):
+    def contains(self,value):
         current_node = self.root
         while current_node:
             if value == current_node.value:
@@ -75,17 +75,15 @@ class BinarySearchTree:
         else:
             parent.left = current.right if current.right else current.left
         return self
-        
+    
     def _remove_node_with_two_children(self, current):
         successor = self._get_successor(current)
         current.value = successor.value
-        return self.remove(successor.value, start=current.right, parnet=current)
-
+        return self.remove(successor.value, start=current.right, parent=current)
+    
     @staticmethod
     def _get_successor(current):
         successor = current.right
         while successor and successor.left:
             successor = successor.left
         return successor
-
-    
